@@ -1,0 +1,2 @@
+# SCP_STRIVER_EDITION_ADD-ON
+Add-ons
